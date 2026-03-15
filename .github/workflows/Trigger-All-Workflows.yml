@@ -13,6 +13,9 @@ jobs:
     IPQ60XX-MainRouter-NoWiFi-LibWrt:
       uses: ./.github/workflows/IPQ60XX-MainRouter-NoWiFi-LibWrt.yml
 
+    IPQ60XX-AP-Storage-LibWrt:
+      uses: ./.github/workflows/IPQ60XX-AP-Storage-LibWrt.yml
+
     IPQ807X-LibWrt:
       uses: ./.github/workflows/IPQ807X-LibWrt.yml
 
